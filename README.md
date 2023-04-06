@@ -26,7 +26,7 @@ The aim of this analysis is to answer the following Business related questions:
 - Transformation took place using power query. Column quality/distribution was checked for nulls, values were replaced. In addition, Day of the week & month columns were   created along side conditional columns using (If/else statements)
 - Lots of data cleaning was done as there were so many unwanted rows and columns, hence they were removed for this analysis. This helps to enhance performance &   efficiency of Power BI as too much irrelevant data will slow the performance.
 
-![]()
+![](Transformation_Cleaning.jpg)
 
 
 ## Data Modelling:
