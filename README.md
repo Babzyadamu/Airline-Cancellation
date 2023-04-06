@@ -39,3 +39,11 @@ By default, Power BI automatically connects different tables using its intellige
 The page name is Airflight cancellation. The visuals used consisted of cards, clustered column chart, pie chart and different slicers. The slicers used are to make the dashboard an interactive one so as to answer different business problems based on the data presented.
 
 ![](Analysis_image.jpg)
+
+## Insights:
+- A total of 5.82M flights were recorded for 2015 and among them were 2% cancellation, 36% arrival delays and 37% departure delays. Overall the flights vary monthly by  approximately 52,000 & day of the week by about 1800 flights.
+- Overall % delayed departure was 37% & overall avg delay in mins was 32.67mins 
+- Overall the % delay departure varied by an average of 4.5% 
+- Flights canceled were @ 2%. 54.35% was from bad weather & 28.11% was from Airline/Carrier.
+- Airline AS is the most reliable at 25% and Airline B6 & F9 both at 38%.
+
